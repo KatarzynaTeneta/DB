@@ -22,3 +22,6 @@ CREATE TABLE flavors (
 
 INSERT INTO [flavors] ([id], [name], [description]) VALUES (1, 'sweet', null);
 INSERT INTO [flavors] ([id], [name], [description]) VALUES (2, 'sour', null);
+INSERT INTO [flavors] ([id], [name], [description]) VALUES (3, 'salty', null);
+INSERT INTO [flavors] ([id], [name], [description]) VALUES (4, 'bitter', null);
+INSERT INTO [flavors] ([id], [name], [description]) VALUES (5, 'umami', null);
