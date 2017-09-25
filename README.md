@@ -1,5 +1,10 @@
 # DB
 
+# database binary file using SQLite:
+#	KASIA.db.sqlite
+# exported SQL file: 
+#	kasia.db.sql
+
 
 
 Quick setup — if you’ve done this kind of thing before
