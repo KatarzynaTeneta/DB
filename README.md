@@ -1,8 +1,8 @@
 # DB
 
-# database binary file using SQLite:
+ Database binary file using SQLite:
 #	KASIA.db.sqlite
-# exported SQL file: 
+ Exported SQL file: 
 #	kasia.db.sql
 
 
